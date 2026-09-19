@@ -100,9 +100,9 @@ No external packages need to be installed because the project uses Python's buil
 > **Note:** Some online Python environments may restrict network socket connections. If the scanner does not work online, run the program locally using Python.
 
 Example output:
-==================================================
+
           PYTHON PORT SCANNER
-==================================================
+
 Enter target hostname or IP address: 127.0.0.1
 
 Target: 127.0.0.1
@@ -111,12 +111,11 @@ Enter starting port: 1
 Enter ending port: 100
 
 Scanning ports...
---------------------------------------------------
---------------------------------------------------
+
 No open ports found in the selected range.
-==================================================
+
 Port scanning completed.
-==================================================
+
 
 ```bash
 python port_scanner.py
