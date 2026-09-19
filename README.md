@@ -112,13 +112,11 @@ Enter ending port: 100
 
 Scanning ports...
 --------------------------------------------------
-Port 22: OPEN
 --------------------------------------------------
-Open ports found: [22]
+No open ports found in the selected range.
 ==================================================
 Port scanning completed.
 ==================================================
-
 
 ```bash
 python port_scanner.py
